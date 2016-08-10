@@ -20,5 +20,4 @@ public class binary{
 		System.out.println();
 		s.close();
 	}
-
 }
