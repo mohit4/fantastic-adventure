@@ -51,6 +51,12 @@ public class AboutStrings{
 		if(s8.compareToIgnoreCase(s9)==0)
 			System.out.println(s8+" and "+s9+" are equal!");
 		
+		//getting last index and first index
+		String s10 = "mississippi";
+		System.out.println("Look at it : "+s10);
+		System.out.println("First index of s : "+s10.indexOf('s'));
+		System.out.println("Last index of s : "+s10.lastIndexOf('s'));
+
 		System.out.println();
 	}
 }
