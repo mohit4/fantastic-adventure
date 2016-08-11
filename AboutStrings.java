@@ -28,10 +28,10 @@ public class AboutStrings{
 		String s4 = "Main";
 		String s5 = "Many";
 		if(s4.compareTo(s5)<0){
-			System.out.println("Order is : \n"+s4+"\n"+s5);
+			System.out.println("\nOrder is : \n"+s4+"\n"+s5);
 		}
 		else
-			System.out.println("Order is : \n"+s5+"\n"+s4);	
+			System.out.println("\nOrder is : \n"+s5+"\n"+s4);	
 		
 		//uppercase and lowercase
 		String s6 = "lOrEm IpSuM";
